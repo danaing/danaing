@@ -2,7 +2,7 @@
 
 ### 🚀 Things I do
 
-- **Data Scientist** at ✨**Credit Card Corporate**
+- **Data Scientist** at ✨**Credit Card Company**
 
 
 ### 🌱 Things I learn
