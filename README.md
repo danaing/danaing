@@ -8,15 +8,15 @@
 ### 🌱 Things I learn
 
 - **Applied Statistics** in Univ. 
-   (*Especially majored in nonparameteric statistics in graduate school.*)
+   (*Especially majored in nonparametric statistics in graduate school.*)
 - **Machine Learning** in Statistics Club
 - Now currently learning **Deep Learning**
 
 
 ### 📬 How to reach me
 
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danahkim@yonsei.com)](mailto:danahkim@yonsei.com)
-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://monologg.kr/)](https://danaing.github.io/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danahkim@yonsei.com)](mailto:danahkim@yonsei.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://monologg.kr/)](https://danaing.github.io/) 
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=danaing&show_icons=true&hide_border=False)](https://github.com/danaing)
