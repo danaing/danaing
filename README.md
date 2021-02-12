@@ -1,4 +1,4 @@
-### :books: Stay hungry, stay foolish.
+### :books: Stay hungry, Stay foolish.
 
 ### 🚀 Things I do
 
