@@ -1,16 +1,20 @@
-### Hi there 👋
+### :books: Stay hungry, stay foolish.
 
 ### 🚀 Things I do
 
 - **Data Scientist** at ✨**Credit Card Company**
 
 
-### 🌱 Things I learn
+### :mortar_board: Things I learn
 
-- **Applied Statistics** in Univ. 
+- **Master of Science in Applied Statistics**
    (*Especially majored in nonparametric statistics in graduate school.*)
-- **Machine Learning** in Statistics Club
-- Now currently learning **Deep Learning**
+- **Machine Learning & Deep Learning** in Statistics Club
+
+### :computer: Competitions
+
+- Dacon : 코로나 데이터 시각화 AI : 8th / 45
+- Dacon : 한국어 문서 추출요약 AI : 20th / 63
 
 
 ### 📬 How to reach me
