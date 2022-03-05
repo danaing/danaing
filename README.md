@@ -1,10 +1,5 @@
 ### ✨ One must live the way one thinks or end up thinking the way one has lived.
 
-## Experience
-
-- **Data Scientist** at **Credit Card Company** (2020.01.~)
-
-
 ## Educations
 
 - **Master of Science in Applied Statistics**
